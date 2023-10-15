@@ -1,10 +1,12 @@
-# MicroServices-with-Spring-Boot-and-Spring-Cloud
-
-# MicroServices with Spring Cloud, Spring Boot, Docker, and GKE on GCP
+# MicroServices with Spring Cloud, Spring Boot, Docker, and GKE on GCP :whale:
 
 This repository contains a comprehensive implementation of a scalable Currency Exchange service using Spring Cloud, Spring Boot, Docker, and Kubernetes (GKE) on Google Cloud Platform (GCP). 
 
 The project, developed from February 2023 to May 2023, encompasses various microservices and technologies to create a robust and resilient system for currency exchange.
+
+## Learning Notes by Author :tada: :raised_hands:
+
+- [Learning Notes](https://sallymicroservices.notion.site/sallymicroservices/MicroServices-with-Spring-Cloud-Spring-Boot-Docker-and-GKE-GCP-815c38848f064f51ba853b0d01d662d2): Detailed notes, explanations, and insights on the development of this project. 
 
 ## Table of Contents
 - [Introduction](#introduction)
@@ -18,11 +20,11 @@ The project, developed from February 2023 to May 2023, encompasses various micro
 - [Docker](#docker)
 - [Kubernetes (GKE) Deployment](#kubernetes-deployment)
 - [Logging and Monitoring](#logging-and-monitoring)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Introduction
-This project aims to create a highly scalable and resilient Currency Exchange service. The key features include efficient RESTful API development, optimized database retrieval, service discovery, load balancing, resilience, and containerized microservices deployment.
+This project aims to create a highly scalable and resilient Currency Exchange service. 
+
+The key features include efficient RESTful API development, optimized database retrieval, service discovery, load balancing, resilience, and containerized microservices deployment.
 
 ## Features
 1. **Scalable Currency Exchange Service**: Developed with Spring Cloud microservices and Feign for RESTful API, ensuring scalability.
@@ -52,18 +54,38 @@ This project aims to create a highly scalable and resilient Currency Exchange se
 - Google Cloud Platform (GCP)
 - Zipkin
 - H2 and MySQL
-
-## Learning Note by Author
-
-- [Learning Notes](https://sallymicroservices.notion.site/sallymicroservices/MicroServices-with-Spring-Cloud-Spring-Boot-Docker-and-GKE-GCP-815c38848f064f51ba853b0d01d662d2): Detailed notes, explanations, and insights on the development of this project.
-
+  
 ## Getting Started
-To get started with this project, follow the installation and setup instructions in the [Getting Started](/docs/GETTING_STARTED.md) document.
+
+### Prerequisites
+Before you begin, make sure you have the following tools installed:
+
+- **Java**: We recommend using the latest version of Java. [Installation Guide](#installing-java)
+- **Eclipse IDE for Enterprise Java Developers**: We recommend using the latest version of Eclipse. [Installation Guide](#installing-eclipse)
+
+### Installing Tools
+Please follow these links to install the required tools:
+
+- **Java**:
+  - **Windows**: [Watch Installation Video](https://www.youtube.com/watch?v=I0SBRWVS0ok)
+  - **Linux**: [Watch Installation Video](https://www.youtube.com/watch?v=mHvFpyHK97A)
+  - **Mac**: [Watch Installation Video](https://www.youtube.com/watch?v=U3kTdMPlgsY)
+- **Eclipse**:
+  - **Windows**: [Watch Installation Video](https://www.youtube.com/watch?v=toY06tsME-M)
+  - **Others**: [Watch Installation Video](https://www.youtube.com/watch?v=XveQ9Gq41UM)
+
+#### Troubleshooting
+- If you encounter any issues during Java installation, you can refer to this troubleshooting video: [Troubleshooting Java Installation](https://www.youtube.com/watch?v=UI_PabQ1YB0)
+- If you encounter any issues configuring Java in Eclipse, you can refer to this troubleshooting video: [Configuring Java in Eclipse](https://www.youtube.com/watch?v=8i0r_fcE3L0)
+
+### Setting Up the Project
+Now that you have the necessary tools, you can set up and run the project.
 
 ## Microservices Architecture
-![Architecture Image](https://your-architecture-image-url.com)
 
-This project consists of multiple microservices, each serving a specific purpose. For detailed information on the microservices architecture, consult the [Microservices Architecture](/docs/MICROSERVICES_ARCHITECTURE.md) document.
+This project consists of multiple microservices, each serving a specific purpose. 
+
+For detailed information on the microservices architecture, consult the [Microservices Architecture](/docs/MICROSERVICES_ARCHITECTURE.md) document.
 
 ## API Endpoints
 Detailed information on API endpoints and how to interact with the services can be found in the [API Endpoints](/docs/API_ENDPOINTS.md) document.
