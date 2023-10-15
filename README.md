@@ -1,4 +1,4 @@
-# MicroServices with Spring Cloud, Spring Boot, Docker, and GKE on GCP :whale:
+# :whale:   MicroServices with Spring Cloud, Spring Boot, Docker, and GKE on GCP
 
 This repository contains a comprehensive implementation of a scalable Currency Exchange service using Spring Cloud, Spring Boot, Docker, and Kubernetes (GKE) on Google Cloud Platform (GCP). 
 
@@ -6,7 +6,7 @@ The project, developed from February 2023 to May 2023, encompasses various micro
 
 ## Learning Notes by Author :tada: :raised_hands:
 
-- [Learning Notes](https://sallymicroservices.notion.site/sallymicroservices/MicroServices-with-Spring-Cloud-Spring-Boot-Docker-and-GKE-GCP-815c38848f064f51ba853b0d01d662d2): Detailed notes, explanations, and insights on the development of this project. 
+- [Learning Notes](https://sallymicroservices.notion.site/MicroServices-with-Spring-Cloud-Spring-Boot-Docker-and-GKE-GCP-815c38848f064f51ba853b0d01d662d2?pvs=4): Detailed notes, explanations, and insights on the development of this project. 
 
 ## Table of Contents
 - [Introduction](#introduction)
