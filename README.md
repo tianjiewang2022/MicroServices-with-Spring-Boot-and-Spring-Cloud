@@ -6,7 +6,7 @@ The project, developed from February 2023 to May 2023, encompasses various micro
 
 ## Learning Notes by Author :tada: :raised_hands:
 
-- [Learning Notes](https://sallymicroservices.notion.site/MicroServices-with-Spring-Cloud-Spring-Boot-Docker-and-GKE-GCP-815c38848f064f51ba853b0d01d662d2?pvs=4): Detailed notes, explanations, and insights on the development of this project. 
+- [Personal Blog](https://sallymicroservices.notion.site/MicroServices-with-Spring-Cloud-Spring-Boot-Docker-and-GKE-GCP-815c38848f064f51ba853b0d01d662d2?pvs=4): Detailed notes, explanations, and insights on the development of this project. 
 
 ## Table of Contents
 - [Introduction](#introduction)
